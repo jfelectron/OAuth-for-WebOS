@@ -1,0 +1,6 @@
+-This the beginning of an OAuth library for WebOS.C ore OAuth functionality to support any OAuth provider is in place.
+
+-Google and PhotoBucket are ready to go. Just add your Oauth key and secret and provide a callback url.
+
+-Individual OAuth providers have slight nuances that will require slight modifications to the OAuth class. 
+You can see where I have conditionals that alter things between google and photo-bucket. If you add a new provider, please let me know and I'll give you access to the repo. 
