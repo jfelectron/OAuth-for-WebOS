@@ -1,4 +1,4 @@
--This the beginning of an OAuth library for WebOS.C ore OAuth functionality to support any OAuth provider is in place.
+-This the beginning of an OAuth library for WebOS. Core OAuth functionality to support any OAuth provider is in place.
 
 -Google and PhotoBucket are ready to go. Just add your Oauth key and secret and provide a callback url.
 
