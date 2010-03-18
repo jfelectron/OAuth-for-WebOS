@@ -1,0 +1,18 @@
+.secMessage { font-weight: bold; margin:10px;}
+.flickrAuth{height:auto; width:auto;border: 3px #98bf21 inset;}
+
+.fAuth {display: none}
+
+#authMessage {font-weight: bold;}
+
+object.hiddenObject {
+  visibility:   hidden !important;
+  width:        0px    !important;
+  height:       0px    !important;
+  margin:       0px    !important;
+  padding:      0px    !important;
+  border-style: none   !important;
+  border-width: 0px    !important;
+  max-width:    0px    !important;
+  max-height:   0px    !important;
+}
