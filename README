@@ -3,7 +3,7 @@
 -Google and PhotoBucket are ready to go. Just add your Oauth key and secret and provide a callback url.
 
 -Individual OAuth providers have slight nuances that will require slight modifications to the OAuth class. 
-You can see where I have conditionals that alter things between google and photo-bucket. If you add a new provider, please let me know and I'll give you access to the repo. 
+You can see where I have conditionals that alter things between google and photo-bucket. If you add a new provider, please let me know and you can either contribute to the main or fork the project.
 
 -Skeleton Auth controller and view are included as well as the stylesheet for the referenced classes. This generates a minimal scene that the WebView widget is rendered into for authorization by the user. This is a nicer flow than spawning a browser. Also,this enables the authorized token and secret to be pulled from the callback url. You likely want to provide a HTTPS callback if possible.
 
