@@ -134,7 +134,7 @@ handleReqToken: function(type,response) {
 
 reqTokenFailure: function(type,response) {
       Mojo.Log.error('Req Token Failure :(')
-      this.callback({success: false, type:response: response})
+      this.callback({success: false, type:response})
 },
 
 handleRedirect: function(event) {
